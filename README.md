@@ -10,7 +10,7 @@
    - kubeadm: 1.19.0
    - kubelet: 1.19.0
    - kubectl: 1.19.0
-There are few steps to the upgrade
+--There are few steps to the upgrade
 - step1: draining  the node
 - step2: cordon the node
 - step3: use apt update to update to latest
